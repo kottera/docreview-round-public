@@ -1,0 +1,152 @@
+{
+  "final": true,
+  "finishes": [
+    {
+      "at": "2026-11-06T13:28:28.221018Z",
+      "method": "email_code",
+      "reviewer": {
+        "name": "Reviewer A",
+        "principal": "01a18cd9-83d8-72c3-85fa-27b6360ca85c"
+      },
+      "round": 1,
+      "verdicts": [
+        {
+          "path": "guide.md",
+          "verdict": "approve_with_changes"
+        },
+        {
+          "path": "notes.txt",
+          "verdict": "approve"
+        }
+      ],
+      "work_order": "01a1b109-683f-780a-8aa4-e89ba1286334"
+    },
+    {
+      "at": "2026-11-06T13:29:36.972768Z",
+      "method": "email_code",
+      "reviewer": {
+        "name": "Reviewer B",
+        "principal": "01a18cda-7524-73f3-8532-9e65a3c14fa6"
+      },
+      "round": 1,
+      "verdicts": [
+        {
+          "path": "guide.md",
+          "verdict": "approve"
+        },
+        {
+          "path": "notes.txt",
+          "verdict": "approve"
+        }
+      ],
+      "work_order": "01a1b10c-2f14-78c6-aabf-decc1bae2b58"
+    }
+  ],
+  "record": "docreview.record",
+  "review": {
+    "closed": "by_owner",
+    "closed_at": "2026-11-06T17:01:49.707894Z",
+    "id": "01a1b0f5-1d49-7217-9294-e19824a55902",
+    "kind": "standard",
+    "mode": "document",
+    "owner": {
+      "name": "Ed",
+      "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+    },
+    "repository": "https://github.com/kottera/docreview-round-public",
+    "state": "closing",
+    "title": "Tide board R",
+    "visibility": "blind"
+  },
+  "rounds": [
+    {
+      "commit": "0159a6ec25c4be1aee3c31b38533820d9d82f3e8",
+      "context_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "documents": [
+        {
+          "artefact": {
+            "digest": "8e881d93badd61b850aaface4c1bae195361365e00800863c47e27947e6e0140",
+            "hidden": 0,
+            "renderer": {
+              "adapter": "markdown/3"
+            },
+            "status": "ok"
+          },
+          "blob": "8060b3d8ad51d3286c0113e299277b8508ae5732",
+          "format": "markdown",
+          "path": "guide.md",
+          "takes_change_mode": true,
+          "takes_suggestions": true
+        },
+        {
+          "artefact": {
+            "digest": "8eaff2801f9e8fd9fdfa193853437b55a7e97810ff255c300ae661e3c3285746",
+            "hidden": 0,
+            "renderer": {
+              "adapter": "text/4"
+            },
+            "status": "ok"
+          },
+          "blob": "4cd314817942e64de74474e84fdc38733586036e",
+          "format": "text",
+          "path": "notes.txt",
+          "takes_change_mode": true,
+          "takes_suggestions": true
+        }
+      ],
+      "published_at": "2026-11-06T13:05:53.922207Z",
+      "published_by": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "round": 1,
+      "state": "finished",
+      "step_up_method": "passkey"
+    },
+    {
+      "commit": "48e47a7af7967b64cb3338c9f6df3f6013515490",
+      "context_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "documents": [
+        {
+          "artefact": {
+            "digest": "1040050559da22afd3bd651130a25b2bd00cf6e8ac9ba6a9ab91cfd3b8a62a54",
+            "hidden": 0,
+            "renderer": {
+              "adapter": "markdown/3"
+            },
+            "status": "ok"
+          },
+          "blob": "984069f086892c47c57524949af47e197ddccbf6",
+          "format": "markdown",
+          "path": "guide.md",
+          "takes_change_mode": true,
+          "takes_suggestions": true
+        },
+        {
+          "artefact": {
+            "digest": "8eaff2801f9e8fd9fdfa193853437b55a7e97810ff255c300ae661e3c3285746",
+            "hidden": 0,
+            "renderer": {
+              "adapter": "text/4"
+            },
+            "status": "ok"
+          },
+          "blob": "4cd314817942e64de74474e84fdc38733586036e",
+          "format": "text",
+          "path": "notes.txt",
+          "takes_change_mode": true,
+          "takes_suggestions": true
+        }
+      ],
+      "published_at": "2026-11-06T13:37:25.277218Z",
+      "published_by": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "round": 2,
+      "state": "closed",
+      "step_up_method": "passkey"
+    }
+  ],
+  "schema_version": 1
+}

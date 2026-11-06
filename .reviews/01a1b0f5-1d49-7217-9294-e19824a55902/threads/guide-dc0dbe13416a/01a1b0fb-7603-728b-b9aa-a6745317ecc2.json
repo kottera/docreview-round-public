@@ -1,0 +1,71 @@
+{
+  "anchor": {
+    "block": "b5",
+    "document": "guide.md",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "Wind can move the water further than any table allows. After two days of strong onshore wind, write a warning beneath the times and tell the harbour master, who decides whether the outer berths stay in use.",
+        "prefix": "since the breakwater was built.\n",
+        "suffix": "\nKeep the chalk dry and the boar",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 1037,
+        "start": 831,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "anchorings": [
+    {
+      "anchor": {
+        "block": "b5",
+        "document": "guide.md",
+        "kind": "text",
+        "round": 2,
+        "selector": [
+          {
+            "exact": "Wind can move the water further than any table allows. After two days of strong onshore wind, write a warning beneath the times and tell the harbour master, who decides whether the outer berths stay in use.",
+            "prefix": " has had cause to revisit them.\n",
+            "suffix": "\nCheck the board again at midday",
+            "type": "TextQuoteSelector"
+          },
+          {
+            "end": 1089,
+            "start": 883,
+            "type": "TextPositionSelector"
+          }
+        ],
+        "side": "head"
+      },
+      "round": 2,
+      "side": "head",
+      "state": "moved"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Reviewer B",
+        "principal": "01a18cda-7524-73f3-8532-9e65a3c14fa6"
+      },
+      "body": "Which harbour master rule covers the outer berths?",
+      "id": "01a1b0fb-7603-7f10-a771-bdb0298c8360",
+      "posted_at": "2026-11-06T13:10:32.201289Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
+      "round": 1
+    }
+  ],
+  "document": "guide.md",
+  "id": "01a1b0fb-7603-728b-b9aa-a6745317ecc2",
+  "kind": "comment",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open"
+}

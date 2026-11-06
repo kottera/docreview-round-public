@@ -1,0 +1,69 @@
+{
+  "anchor": {
+    "block": "b4",
+    "document": "guide.md",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "To correct a time, add the harbour's fixed offset of twenty-two minutes to every high water and eighteen minutes to every low water. The offset was measured over a full year and has not changed since the breakwater was built.",
+        "prefix": "ur before it goes on the board.\n",
+        "suffix": "\nWind can move the water further",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 830,
+        "start": 605,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "anchorings": [
+    {
+      "round": 2,
+      "side": "head",
+      "state": "unanchored"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Reviewer A",
+        "principal": "01a18cd9-83d8-72c3-85fa-27b6360ca85c"
+      },
+      "body": "",
+      "id": "01a1b0ff-3da0-790d-b030-2f87581cfffc",
+      "posted_at": "2026-11-06T13:14:39.949102Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
+      "round": 1
+    }
+  ],
+  "document": "guide.md",
+  "id": "01a1b0ff-3d9f-7456-8694-0872ba5a6a77",
+  "kind": "suggestion",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open",
+  "suggestion": {
+    "blob": "8060b3d8ad51d3286c0113e299277b8508ae5732",
+    "block": "b4",
+    "decided_at": "2026-11-06T13:20:53.694837Z",
+    "decided_by": {
+      "name": "Ed",
+      "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+    },
+    "decision": "accepted",
+    "not_applied": "document_changed",
+    "original": "To correct a time, add the harbour's fixed offset of twenty-two minutes to\nevery high water and eighteen minutes to every low water. The offset was\nmeasured over a full year and has not changed since the breakwater was built.",
+    "replacement": "To correct a time, always add the harbour's fixed offset of twenty-two minutes to\nevery high water and eighteen minutes to every low water. The offset was\nmeasured over a full year and has not changed since the breakwater was built.",
+    "round": 1,
+    "span": {
+      "end": 836,
+      "start": 611
+    }
+  }
+}

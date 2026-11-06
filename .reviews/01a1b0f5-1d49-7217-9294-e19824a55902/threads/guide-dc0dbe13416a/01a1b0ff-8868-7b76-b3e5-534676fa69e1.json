@@ -1,0 +1,88 @@
+{
+  "anchor": {
+    "block": "b7",
+    "document": "guide.md",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "When you hand over to the next volunteer, walk the quay together and read the week's tables aloud. Mistakes are found this way far more often than by checking alone at a desk.",
+        "prefix": "mp cloth rather than a dry one.\n",
+        "suffix": "",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 1418,
+        "start": 1243,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "anchorings": [
+    {
+      "anchor": {
+        "block": "b8",
+        "document": "guide.md",
+        "kind": "text",
+        "round": 2,
+        "selector": [
+          {
+            "exact": "When you hand over to the next volunteer, walk the quay together and read the week's tables aloud. Mistakes are found this way far more often than by checking alone at a desk.",
+            "prefix": "mp cloth rather than a dry one.\n",
+            "suffix": "",
+            "type": "TextQuoteSelector"
+          },
+          {
+            "end": 1640,
+            "start": 1465,
+            "type": "TextPositionSelector"
+          }
+        ],
+        "side": "head"
+      },
+      "round": 2,
+      "side": "head",
+      "state": "moved"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Reviewer B",
+        "principal": "01a18cda-7524-73f3-8532-9e65a3c14fa6"
+      },
+      "body": "",
+      "id": "01a1b0ff-8869-7c9d-a03f-625cf9a6bc34",
+      "posted_at": "2026-11-06T13:14:59.050154Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
+      "round": 1
+    }
+  ],
+  "document": "guide.md",
+  "id": "01a1b0ff-8868-7b76-b3e5-534676fa69e1",
+  "kind": "suggestion",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open",
+  "suggestion": {
+    "blob": "8060b3d8ad51d3286c0113e299277b8508ae5732",
+    "block": "b7",
+    "decided_at": "2026-11-06T13:20:50.134199Z",
+    "decided_by": {
+      "name": "Ed",
+      "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+    },
+    "decision": "rejected",
+    "original": "When you hand over to the next volunteer, walk the quay together and read the\nweek's tables aloud. Mistakes are found this way far more often than by\nchecking alone at a desk.",
+    "replacement": "When you hand over to the next volunteer, stroll the quay as a pair and read the\nweek's tables aloud. Mistakes are found this way far more often than by\nchecking alone at a desk.",
+    "round": 1,
+    "span": {
+      "end": 1427,
+      "start": 1252
+    }
+  }
+}

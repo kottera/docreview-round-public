@@ -11,13 +11,18 @@ The tables come from the harbour office and are printed once a year. They
 give predicted times for a standard port up the coast, so each entry has to
 be corrected for this harbour before it goes on the board.
 
-To correct a time, add the harbour's fixed offset of twenty-two minutes to
-every high water and eighteen minutes to every low water. The offset was
-measured over a full year and has not changed since the breakwater was built.
+Every predicted time needs the local correction before it is chalked up: high
+waters run twenty-two minutes later here than at the standard port, and low
+waters eighteen. Those figures date from the survey after the breakwater went
+in, and nobody has had cause to revisit them.
 
 Wind can move the water further than any table allows. After two days of
 strong onshore wind, write a warning beneath the times and tell the harbour
 master, who decides whether the outer berths stay in use.
+
+Check the board again at midday. Skippers coming in on the afternoon tide
+read it from the water, so the figures need to be large enough to see from the
+end of the quay.
 
 Keep the chalk dry and the board clean. Rain ruins a soft chalk within an
 hour, so use the hard sticks from the tin in the office, and wipe yesterday's
