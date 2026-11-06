@@ -1,7 +1,9 @@
 {
-  "final": false,
+  "final": true,
   "record": "docreview.record",
   "review": {
+    "closed": "by_owner",
+    "closed_at": "2026-11-06T16:43:08.990616Z",
     "id": "01a1b0f5-b494-70a7-ae48-b2eb164b0c0c",
     "kind": "standard",
     "mode": "document",
@@ -10,7 +12,7 @@
       "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
     },
     "repository": "https://github.com/kottera/docreview-round-public",
-    "state": "open",
+    "state": "closing",
     "title": "Tide notes E",
     "visibility": "open"
   },
@@ -41,7 +43,7 @@
         "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
       },
       "round": 1,
-      "state": "open",
+      "state": "closed",
       "step_up_method": "passkey"
     }
   ],
