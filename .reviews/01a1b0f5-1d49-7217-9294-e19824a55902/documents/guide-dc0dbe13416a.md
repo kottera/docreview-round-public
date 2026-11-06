@@ -85,6 +85,10 @@ At later rounds:
 
 > H4\: waking the checkpoint\.
 
+**Ed**, round 2, at 2026-11-06T16:16:26.597324Z:
+
+> H6\: waking the checkpoint\.
+
 ## Comment thread `01a1b0fb-7603-728b-b9aa-a6745317ecc2`: open
 
 Made on round 1, the head side, the passage:
