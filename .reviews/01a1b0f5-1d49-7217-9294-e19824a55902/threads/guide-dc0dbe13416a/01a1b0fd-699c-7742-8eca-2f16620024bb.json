@@ -1,0 +1,107 @@
+{
+  "anchor": {
+    "block": "b3",
+    "document": "guide.md",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "The tables come from the harbour office and are printed once a year. They give predicted times for a standard port up the coast, so each entry has to be corrected for this harbour before it goes on the board.",
+        "prefix": "y hand each morning before six.\n",
+        "suffix": "\nTo correct a time, add the harb",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 604,
+        "start": 396,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "anchorings": [
+    {
+      "anchor": {
+        "block": "b3",
+        "document": "guide.md",
+        "kind": "text",
+        "round": 2,
+        "selector": [
+          {
+            "exact": "The tables come from the harbour office and are printed once a year. They give predicted times for a standard port up the coast, so each entry has to be corrected for this harbour before it goes on the board.",
+            "prefix": "y hand each morning before six.\n",
+            "suffix": "\nEvery predicted time needs the ",
+            "type": "TextQuoteSelector"
+          },
+          {
+            "end": 604,
+            "start": 396,
+            "type": "TextPositionSelector"
+          }
+        ],
+        "side": "head"
+      },
+      "round": 2,
+      "side": "head",
+      "state": "exact"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "Which edition of the tables is this?",
+      "id": "01a1b0fd-699c-76ce-bcdb-403ef17bfa84",
+      "posted_at": "2026-11-06T13:12:41.236842Z",
+      "round": 1
+    },
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "Markdown check: [a link](https://example.com/x) and ![an image](https://example.com/pixel.png) and <script>alert(1)</script> and **bold**",
+      "id": "01a1b119-153b-748a-a6e7-661283267154",
+      "posted_at": "2026-11-06T13:42:53.52375Z",
+      "round": 2
+    },
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "H1: waking the checkpoint.",
+      "id": "01a1b11a-f39b-7d66-a9d6-e47395244d91",
+      "posted_at": "2026-11-06T13:44:55.98313Z",
+      "round": 2
+    },
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "H2: waking the checkpoint.",
+      "id": "01a1b11c-e1f7-7395-9862-b33118cd7e80",
+      "posted_at": "2026-11-06T13:47:02.552101Z",
+      "round": 2
+    },
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "H3: waking the checkpoint.",
+      "id": "01a1b11e-8533-7587-a4a1-02b06339df57",
+      "posted_at": "2026-11-06T13:48:49.872039Z",
+      "round": 2
+    }
+  ],
+  "document": "guide.md",
+  "id": "01a1b0fd-699c-7742-8eca-2f16620024bb",
+  "kind": "comment",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open"
+}

@@ -1,0 +1,85 @@
+{
+  "anchor": {
+    "block": "b6",
+    "document": "guide.md",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "Keep the chalk dry and the board clean. Rain ruins a soft chalk within an hour, so use the hard sticks from the tin in the office, and wipe yesterday's figures off with a damp cloth rather than a dry one.",
+        "prefix": "r the outer berths stay in use.\n",
+        "suffix": "\nWhen you hand over to the next ",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 1242,
+        "start": 1038,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "anchorings": [
+    {
+      "anchor": {
+        "block": "b7",
+        "document": "guide.md",
+        "kind": "text",
+        "round": 2,
+        "selector": [
+          {
+            "exact": "Keep the chalk dry and the board clean. Rain ruins a soft chalk within an hour, so use the hard sticks from the tin in the office, and wipe yesterday's figures off with a damp cloth rather than a dry one.",
+            "prefix": "o see from the end of the quay.\n",
+            "suffix": "\nWhen you hand over to the next ",
+            "type": "TextQuoteSelector"
+          },
+          {
+            "end": 1464,
+            "start": 1260,
+            "type": "TextPositionSelector"
+          }
+        ],
+        "side": "head"
+      },
+      "round": 2,
+      "side": "head",
+      "state": "moved"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Reviewer A",
+        "principal": "01a18cd9-83d8-72c3-85fa-27b6360ca85c"
+      },
+      "body": "",
+      "id": "01a1b0ff-180a-7296-b5ec-023f0c863614",
+      "posted_at": "2026-11-06T13:14:30.871046Z",
+      "round": 1
+    }
+  ],
+  "document": "guide.md",
+  "id": "01a1b0ff-180a-7be7-bcee-ad993c4c219c",
+  "kind": "suggestion",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open",
+  "suggestion": {
+    "applied_commit": "eebd1f075eaec9eaea0395b36809ac970f847d97",
+    "blob": "8060b3d8ad51d3286c0113e299277b8508ae5732",
+    "block": "b6",
+    "decided_at": "2026-11-06T13:20:53.694837Z",
+    "decided_by": {
+      "name": "Ed",
+      "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+    },
+    "decision": "accepted",
+    "original": "Keep the chalk dry and the board clean. Rain ruins a soft chalk within an\nhour, so use the hard sticks from the tin in the office, and wipe yesterday's\nfigures off with a damp cloth rather than a dry one.",
+    "replacement": "Keep the chalk bone dry and the board spotless. Rain ruins a soft chalk within an\nhour, so use the hard sticks from the tin in the office, and wipe yesterday's\nfigures off with a damp cloth rather than a dry one.",
+    "round": 1,
+    "span": {
+      "end": 1250,
+      "start": 1046
+    }
+  }
+}

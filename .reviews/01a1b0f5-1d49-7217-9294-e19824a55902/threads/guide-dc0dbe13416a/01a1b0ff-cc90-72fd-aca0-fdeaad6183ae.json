@@ -1,0 +1,84 @@
+{
+  "anchor": {
+    "block": "b2",
+    "document": "guide.md",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "The board stands at the head of the quay, where every skipper passes it on the way to the boats. It shows the day's two high waters, the two low waters and the height of each, chalked by hand each morning before six.",
+        "prefix": "all fishing harbour up to date.\n",
+        "suffix": "\nThe tables come from the harbou",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 395,
+        "start": 179,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "anchorings": [
+    {
+      "anchor": {
+        "block": "b2",
+        "document": "guide.md",
+        "kind": "text",
+        "round": 2,
+        "selector": [
+          {
+            "exact": "The board stands at the head of the quay, where every skipper passes it on the way to the boats. It shows the day's two high waters, the two low waters and the height of each, chalked by hand each morning before six.",
+            "prefix": "all fishing harbour up to date.\n",
+            "suffix": "\nThe tables come from the harbou",
+            "type": "TextQuoteSelector"
+          },
+          {
+            "end": 395,
+            "start": 179,
+            "type": "TextPositionSelector"
+          }
+        ],
+        "side": "head"
+      },
+      "round": 2,
+      "side": "head",
+      "state": "exact"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Reviewer B",
+        "principal": "01a18cda-7524-73f3-8532-9e65a3c14fa6"
+      },
+      "body": "",
+      "id": "01a1b0ff-cc90-73a8-ada2-fcbbe7c124af",
+      "posted_at": "2026-11-06T13:15:16.497617Z",
+      "round": 1
+    }
+  ],
+  "document": "guide.md",
+  "id": "01a1b0ff-cc90-72fd-aca0-fdeaad6183ae",
+  "kind": "suggestion",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open",
+  "suggestion": {
+    "blob": "8060b3d8ad51d3286c0113e299277b8508ae5732",
+    "block": "b2",
+    "decided_at": "2026-11-06T13:17:08.97905Z",
+    "decided_by": {
+      "name": "Ed",
+      "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+    },
+    "decision": "rejected",
+    "original": "The board stands at the head of the quay, where every skipper passes it on\nthe way to the boats. It shows the day's two high waters, the two low waters\nand the height of each, chalked by hand each morning before six.",
+    "replacement": "The board stands at the head of the quay, where every skipper passes it on\nthe way to the boats. It shows the day's two high waters, the two low waters\nand the height of each, chalked by hand each morning before six.\n\nThe tables come from the harbour office every spring.",
+    "round": 1,
+    "span": {
+      "end": 399,
+      "start": 183
+    }
+  }
+}

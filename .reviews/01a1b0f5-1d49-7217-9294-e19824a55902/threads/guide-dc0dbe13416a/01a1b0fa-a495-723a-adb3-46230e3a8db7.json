@@ -1,0 +1,67 @@
+{
+  "anchor": {
+    "block": "b2",
+    "document": "guide.md",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "The board stands at the head of the quay, where every skipper passes it on the way to the boats. It shows the day's two high waters, the two low waters and the height of each, chalked by hand each morning before six.",
+        "prefix": "all fishing harbour up to date.\n",
+        "suffix": "\nThe tables come from the harbou",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 395,
+        "start": 179,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "anchorings": [
+    {
+      "anchor": {
+        "block": "b2",
+        "document": "guide.md",
+        "kind": "text",
+        "round": 2,
+        "selector": [
+          {
+            "exact": "The board stands at the head of the quay, where every skipper passes it on the way to the boats. It shows the day's two high waters, the two low waters and the height of each, chalked by hand each morning before six.",
+            "prefix": "all fishing harbour up to date.\n",
+            "suffix": "\nThe tables come from the harbou",
+            "type": "TextQuoteSelector"
+          },
+          {
+            "end": 395,
+            "start": 179,
+            "type": "TextPositionSelector"
+          }
+        ],
+        "side": "head"
+      },
+      "round": 2,
+      "side": "head",
+      "state": "exact"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Reviewer A",
+        "principal": "01a18cd9-83d8-72c3-85fa-27b6360ca85c"
+      },
+      "body": "Could this say how early the board has to be chalked in winter?",
+      "id": "01a1b0fa-a495-72cc-84eb-1288e45cf5d3",
+      "posted_at": "2026-11-06T13:09:38.60764Z",
+      "round": 1
+    }
+  ],
+  "document": "guide.md",
+  "id": "01a1b0fa-a495-723a-adb3-46230e3a8db7",
+  "kind": "comment",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open"
+}
