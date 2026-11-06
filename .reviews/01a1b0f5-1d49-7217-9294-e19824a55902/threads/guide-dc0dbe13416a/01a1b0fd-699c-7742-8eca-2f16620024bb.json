@@ -116,6 +116,16 @@
       "id": "01a1b1a5-a9af-7aa7-b3d2-846fd449b502",
       "posted_at": "2026-11-06T16:16:26.597324Z",
       "round": 2
+    },
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "E2: waking the checkpoint.",
+      "id": "01a1b1a8-ed43-7299-b76c-d107cafcf007",
+      "posted_at": "2026-11-06T16:20:01.667389Z",
+      "round": 2
     }
   ],
   "document": "guide.md",
