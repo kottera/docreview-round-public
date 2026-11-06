@@ -55,6 +55,10 @@
       "body": "Which edition of the tables is this?",
       "id": "01a1b0fd-699c-76ce-bcdb-403ef17bfa84",
       "posted_at": "2026-11-06T13:12:41.236842Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 1
     },
     {
@@ -65,6 +69,10 @@
       "body": "Markdown check: [a link](https://example.com/x) and ![an image](https://example.com/pixel.png) and <script>alert(1)</script> and **bold**",
       "id": "01a1b119-153b-748a-a6e7-661283267154",
       "posted_at": "2026-11-06T13:42:53.52375Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     },
     {
@@ -75,6 +83,10 @@
       "body": "H1: waking the checkpoint.",
       "id": "01a1b11a-f39b-7d66-a9d6-e47395244d91",
       "posted_at": "2026-11-06T13:44:55.98313Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     },
     {
@@ -85,6 +97,10 @@
       "body": "H2: waking the checkpoint.",
       "id": "01a1b11c-e1f7-7395-9862-b33118cd7e80",
       "posted_at": "2026-11-06T13:47:02.552101Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     },
     {
@@ -95,6 +111,10 @@
       "body": "H3: waking the checkpoint.",
       "id": "01a1b11e-8533-7587-a4a1-02b06339df57",
       "posted_at": "2026-11-06T13:48:49.872039Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     },
     {
@@ -105,6 +125,10 @@
       "body": "H4: waking the checkpoint.",
       "id": "01a1b123-b2d2-7dc6-be35-e7df48c1c4e5",
       "posted_at": "2026-11-06T13:54:29.234716Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     },
     {
@@ -115,6 +139,10 @@
       "body": "H6: waking the checkpoint.",
       "id": "01a1b1a5-a9af-7aa7-b3d2-846fd449b502",
       "posted_at": "2026-11-06T16:16:26.597324Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     },
     {
@@ -125,6 +153,10 @@
       "body": "E2: waking the checkpoint.",
       "id": "01a1b1a8-ed43-7299-b76c-d107cafcf007",
       "posted_at": "2026-11-06T16:20:01.667389Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     },
     {
@@ -135,6 +167,10 @@
       "body": "V2: a change after the rebuild.",
       "id": "01a1b1c8-f33a-75ce-9e12-19b6307fdac9",
       "posted_at": "2026-11-06T16:54:59.218146Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 2
     }
   ],

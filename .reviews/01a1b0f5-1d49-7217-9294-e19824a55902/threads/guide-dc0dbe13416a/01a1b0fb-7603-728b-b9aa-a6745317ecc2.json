@@ -55,6 +55,10 @@
       "body": "Which harbour master rule covers the outer berths?",
       "id": "01a1b0fb-7603-7f10-a771-bdb0298c8360",
       "posted_at": "2026-11-06T13:10:32.201289Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 1
     }
   ],

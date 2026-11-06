@@ -55,6 +55,10 @@
       "body": "",
       "id": "01a1b0ff-8869-7c9d-a03f-625cf9a6bc34",
       "posted_at": "2026-11-06T13:14:59.050154Z",
+      "provenance": {
+        "drafted_from_assistant": false,
+        "edited_after_draft": false
+      },
       "round": 1
     }
   ],

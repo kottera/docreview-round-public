@@ -1,5 +1,5 @@
 {
-  "final": false,
+  "final": true,
   "finishes": [
     {
       "at": "2026-11-06T13:28:28.221018Z",
@@ -44,6 +44,8 @@
   ],
   "record": "docreview.record",
   "review": {
+    "closed": "by_owner",
+    "closed_at": "2026-11-06T17:01:49.707894Z",
     "id": "01a1b0f5-1d49-7217-9294-e19824a55902",
     "kind": "standard",
     "mode": "document",
@@ -52,7 +54,7 @@
       "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
     },
     "repository": "https://github.com/kottera/docreview-round-public",
-    "state": "open",
+    "state": "closing",
     "title": "Tide board R",
     "visibility": "blind"
   },
@@ -142,7 +144,7 @@
         "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
       },
       "round": 2,
-      "state": "open",
+      "state": "closed",
       "step_up_method": "passkey"
     }
   ],
