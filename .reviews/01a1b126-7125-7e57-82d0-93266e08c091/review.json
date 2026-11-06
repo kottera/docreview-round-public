@@ -1,0 +1,60 @@
+{
+  "final": false,
+  "record": "docreview.record",
+  "review": {
+    "id": "01a1b126-7125-7e57-82d0-93266e08c091",
+    "kind": "standard",
+    "mode": "change",
+    "owner": {
+      "name": "Ed",
+      "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+    },
+    "repository": "https://github.com/kottera/docreview-round-public",
+    "state": "open",
+    "title": "Tide notes O",
+    "visibility": "open"
+  },
+  "rounds": [
+    {
+      "base_commit": "0159a6ec25c4be1aee3c31b38533820d9d82f3e8",
+      "commit": "e858954c2f741ff89124891a1800c7ba4363b0c3",
+      "context_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "documents": [
+        {
+          "artefact": {
+            "digest": "85aef643dbf787760ee4c964ea1fa5e47dcef117854ae60d87e9849d0f9f3833",
+            "hidden": 0,
+            "renderer": {
+              "adapter": "text/4"
+            },
+            "status": "ok"
+          },
+          "base_artefact": {
+            "digest": "8eaff2801f9e8fd9fdfa193853437b55a7e97810ff255c300ae661e3c3285746",
+            "hidden": 0,
+            "renderer": {
+              "adapter": "text/4"
+            },
+            "status": "ok"
+          },
+          "base_blob": "4cd314817942e64de74474e84fdc38733586036e",
+          "blob": "05bdb0f3a8500c60b13b69109474b07e922037de",
+          "change": "modified",
+          "format": "text",
+          "path": "notes.txt",
+          "takes_change_mode": true,
+          "takes_suggestions": true
+        }
+      ],
+      "published_at": "2026-11-06T14:02:07.263613Z",
+      "published_by": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "round": 1,
+      "state": "open",
+      "step_up_method": "passkey"
+    }
+  ],
+  "schema_version": 1
+}
