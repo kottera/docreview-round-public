@@ -96,6 +96,16 @@
       "id": "01a1b11e-8533-7587-a4a1-02b06339df57",
       "posted_at": "2026-11-06T13:48:49.872039Z",
       "round": 2
+    },
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "H4: waking the checkpoint.",
+      "id": "01a1b123-b2d2-7dc6-be35-e7df48c1c4e5",
+      "posted_at": "2026-11-06T13:54:29.234716Z",
+      "round": 2
     }
   ],
   "document": "guide.md",
