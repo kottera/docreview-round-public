@@ -1,0 +1,40 @@
+{
+  "anchor": {
+    "block": "b2",
+    "document": "notes.txt",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "Order new chalk in spring",
+        "prefix": "rbour master opens up at eight.\n",
+        "suffix": ". The tin should never hold fewe",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 240,
+        "start": 215,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "comments": [
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "Let's not forget this",
+      "id": "01a1b67e-0b6b-7d18-939b-cc17673b5f2c",
+      "posted_at": "2026-11-07T14:51:16.22683Z",
+      "round": 1
+    }
+  ],
+  "document": "notes.txt",
+  "id": "01a1b67e-0b6b-7f2e-bdb1-e4bf96947153",
+  "kind": "comment",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open"
+}

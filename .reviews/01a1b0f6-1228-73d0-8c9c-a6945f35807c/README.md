@@ -22,7 +22,7 @@ This is a checkpoint: it holds what every reviewer of the review may already see
 
 | Document | Threads open | Threads resolved | Suggestions pending | Accepted | Rejected | File |
 | --- | --- | --- | --- | --- | --- | --- |
-| notes\.txt | 0 | 0 | 0 | 0 | 0 | [`documents/notes-e39538e7f27a.md`](documents/notes-e39538e7f27a.md) |
+| notes\.txt | 2 | 0 | 1 | 0 | 0 | [`documents/notes-e39538e7f27a.md`](documents/notes-e39538e7f27a.md) |
 
 ## Rounds
 

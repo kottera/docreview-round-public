@@ -1,0 +1,52 @@
+{
+  "anchor": {
+    "block": "b1",
+    "document": "notes.txt",
+    "kind": "text",
+    "round": 1,
+    "selector": [
+      {
+        "exact": "The office key is on the hook behind the chandlery door. Return it the same\nmorning, because the harbour master opens up at eight.",
+        "prefix": "up document for a\nreview round.\n",
+        "suffix": "\nOrder new chalk in spring. The ",
+        "type": "TextQuoteSelector"
+      },
+      {
+        "end": 214,
+        "start": 84,
+        "type": "TextPositionSelector"
+      }
+    ],
+    "side": "head"
+  },
+  "comments": [
+    {
+      "author": {
+        "name": "Ed",
+        "principal": "01a0f8e5-4662-749f-b7c3-3466661cc5cb"
+      },
+      "body": "",
+      "id": "01a1b67d-c943-768e-9943-1ee8a646c71e",
+      "posted_at": "2026-11-07T14:50:59.296236Z",
+      "round": 1
+    }
+  ],
+  "document": "notes.txt",
+  "id": "01a1b67d-c943-7e45-9617-8d22764c657b",
+  "kind": "suggestion",
+  "record": "docreview.thread",
+  "schema_version": 1,
+  "state": "open",
+  "suggestion": {
+    "blob": "4cd314817942e64de74474e84fdc38733586036e",
+    "block": "b1",
+    "decision": "pending",
+    "original": "The office key is on the hook behind the chandlery door. Return it the same\nmorning, because the harbour master opens up at eight.",
+    "replacement": "The office key is on the hook behind the chandlery door. Return it the same\nmorning because the harbour master opens up at eight.",
+    "round": 1,
+    "span": {
+      "end": 215,
+      "start": 85
+    }
+  }
+}
